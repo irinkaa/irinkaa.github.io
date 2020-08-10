@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    color: #000;
+    background-color: #FBFBFB;
+}
+
+a {
+    color: #005C9C;
+}
+
+.main-content p {
+    margin: 2rem 0 1rem;
+}
+
+.main-content strong {
+    font-weight: normal;
+    border-bottom: 2px solid indianred;
+}
+
+.main-content ul {
+    margin: 0;
+    padding-left: 1rem;
+}
+
+.main-content ul li {
+    line-height: 1.5rem;
+    margin: 0.5rem 0;
+}
+
+@media screen and (min-width: 42em) {
+    .main-content {
+        max-width: 42rem;
+        padding: 4rem 6rem;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .main-content {
+        max-width: 42rem;
+        padding: 2rem 1rem;
+    }
+}
