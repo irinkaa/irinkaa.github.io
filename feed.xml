@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ira Zayats</title>
+        <link>https://irazayats.com</link>
+        <description>Ira Zayats | Indie Hacking</description>
+        <item>
+            <title>Shipping a Project in 24 Hours</title>
+            <link>https://irazayats.com/24-hours/</link>
+            <description>Three days before the New Year's, I had an idea to build a simple printable calendar app.
+
+This idea had no more chances of getting shipped than any before it. There are people who ship projects and there's me — at best, able to ship client work on a deadline...</description>
+        </item>
+        <!-- Add more items as needed -->
+    </channel>
+</rss>
